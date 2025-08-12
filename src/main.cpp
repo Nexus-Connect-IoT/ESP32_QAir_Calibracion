@@ -6,7 +6,8 @@
   * Dejar el sensor funcionando unos 5 - 10 minutos antes de empezar para que se caliente un poco.
   * Abrir el Monitor Serial a 115200 baudios.
   * Vas a ver que toma 50 lecturas y al final te da un valor de Ro(en ohmios).
-  * Ese valor lo copias después en tu programa principal, por ejemplo: float Ro = 12345.67 // ← valor calibrado
+  * Ese valor lo copias después en tu programa principal,
+  * por ejemplo: float Ro = 12345.67 // ← valor calibrado
   * 5972,43
  */
 
